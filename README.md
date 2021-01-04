@@ -1,2 +1,7 @@
 # ml_pets_and_study
-Учебные проекты, хакатоны и тестовые задания
+Здесь собраны учебные проекты, хакатоны и тестовые задания
+
+Meagfon(Kaggle) - 14/100
+Доработал свое решение до топ-1:
+https://www.kaggle.com/artembakalinskiy/megafon-eda-feature-selection
+https://www.kaggle.com/artembakalinskiy/random-forest-0-54587-private
