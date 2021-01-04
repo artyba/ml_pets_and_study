@@ -1,12 +1,12 @@
 # ml_pets_and_study
 
 #### Проект для Почты России (Хакатон Цифровой прорыв)
-./RussianPost/
+- ./RussianPost/
 
 #### Тестовые задания по вакансиям
-SPB. Abstract_Time_Series.ipynb 
-Prod_Analyst_test_task.ipynb
-Multiple_Sales_Forecasting_test_task.ipynb
+- SPB. Abstract_Time_Series.ipynb 
+- Prod_Analyst_test_task.ipynb
+- Multiple_Sales_Forecasting_test_task.ipynb
 
 #### DLS_MIPT_Churn_Kaggle - 21/671
 Решение: DLS_MIPT_Churn_Kaggle.ipynb
